@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+
+# Eclipse build folder
+bin/
+
+# Eclipse settings
+.settings/
+.classpath
+.project
+
+# JAR files
+*.jar
+
+# Maven/Gradle build folders
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
